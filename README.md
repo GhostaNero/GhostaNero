@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on uh?
 - 📫 How to reach me Just by github
 - 😄 Pronouns: Ain't into that stuff
-- ⚡ Fun fact: ...
+
+- Feel free to criticise my code, need improvement on optimisation :D
 
 <!---
 GhostaNero/GhostaNero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
